@@ -1,0 +1,194 @@
+[
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app",
+        {
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554283152042,
+            "changeTime": 1554283152042,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main",
+        {
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554283152043,
+            "changeTime": 1554283152043,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554294565786,
+            "changeTime": 1554294565786,
+            "contentHash": "5d6b06460bf4608a4b698e6baaa24ea62a0514ef"
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554283152044,
+            "changeTime": 1554283152044,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554283173212,
+            "changeTime": 1554283173212,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject",
+        {
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1554283162754,
+            "changeTime": 1554283162754,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\pages\\AccountPage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\pages\\AccountPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 288,
+            "modifiedTime": 1554294565760,
+            "changeTime": 1554294565760,
+            "contentHash": "3a7eb8a01a8a9b1d9aef0c62a8be691becb4f991"
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\pages\\AccountPage.page",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\pages\\AccountPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 216,
+            "modifiedTime": 1554294565765,
+            "changeTime": 1554294565765,
+            "contentHash": "03aa6daff245f35ae1745df8245b0fa313f5dac3"
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\classes\\demoControllerExtension.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\classes\\demoControllerExtension.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1554294565772,
+            "changeTime": 1554294565772,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\classes\\demoControllerExtension.cls",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\classes\\demoControllerExtension.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 289,
+            "modifiedTime": 1554294565775,
+            "changeTime": 1554294565775,
+            "contentHash": "59e48e99cbffff5dbbd4f37b0eeef5928b0cfb07"
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18825,
+            "modifiedTime": 1554294565798,
+            "changeTime": 1554294565798,
+            "contentHash": "e102fdc6b67f9aa3d7640fb8defb7a3a250e2f8d"
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554294565764,
+            "changeTime": 1554294565764,
+            "contentHash": "984f8836cdff113e41f5992327b4417237ff045a"
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554294565774,
+            "changeTime": 1554294565774,
+            "contentHash": "4eb2e0547ea4934e4f8041d22e3d5bfe4b8cd151"
+        }
+    ],
+    [
+        "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "E:\\VisualStudioFolder\\TestSFDXVideoRef\\My3rdProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1554294565797,
+            "changeTime": 1554294565797,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
