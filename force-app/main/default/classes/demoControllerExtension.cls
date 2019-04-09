@@ -1,5 +1,5 @@
 public class demoControllerExtension {
-    //private class
+    //private class...
  private final Account user_acc;
  public demoControllerExtension(ApexPages.StandardController stdController) {
  this.user_acc = (Account)stdController.getRecord();
