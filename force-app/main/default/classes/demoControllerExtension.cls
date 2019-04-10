@@ -1,5 +1,5 @@
 public class demoControllerExtension {
-git init    //private class...76
+//private class...jenkintest
  private final Account user_acc;
  public demoControllerExtension(ApexPages.StandardController stdController) {
  this.user_acc = (Account)stdController.getRecord();
